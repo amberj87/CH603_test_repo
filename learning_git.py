@@ -1,5 +1,8 @@
 def addition(a,b):
-  c=a+b
+  if(a>b):
+    c=a+b
+  else:
+    c=a-b
   return(c)
 
 print("Hello World")
