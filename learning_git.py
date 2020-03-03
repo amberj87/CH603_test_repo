@@ -11,7 +11,7 @@ def addition(a,b):
 
 print("Hello World")
 a=1.0
-b=2.0
+b=3.0
 print(a+b)
 print("adding using function")
 print(addition(a,b))
